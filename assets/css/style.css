@@ -29,8 +29,9 @@ h2{
 
 .dropdown-item{
     font-family: 'Cinzel', serif;
-    font-size: 25px;
-    color: navy;
+    font-size: 15px;
+    padding-top: 10px;
+    color: whitesmoke;
 }
 
 /*-------------Students-section--------------*/
