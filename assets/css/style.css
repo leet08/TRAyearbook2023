@@ -27,6 +27,12 @@ h2{
     color: navy;
 }
 
+.dropdown-item{
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+    color: navy;
+}
+
 /*-------------Students-section--------------*/
 
 #student-section{
