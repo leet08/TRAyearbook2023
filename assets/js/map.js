@@ -10,54 +10,31 @@ function initMap() {
              let labels = "ABCDEFGHIJKLMONPQRSTUVWXYZ";
          
              let locations = [{
-                 lat: 53.3497645,
-                 lng: -6.2602732,
-                 location: "Dublin",
+              	 lat: 42.3142315,
+                 lng: -71.135437,
+                 location: "Boston, MA - Everyone",
              }, {
-                 lat: 51.898627,
-                 lng: -8.4705942,
-                 location: "Cork",
+                 lat: 41.7322167,
+                 lng: 44.64176,
+                 location: "Tbilisi, Georgia - Jonathan, Samuel, Evan, Noah",
              }, {
-                 lat: 51.5073219,
-                 lng: -0.1276474,
-                 location: "London",
+                 lat: 39.9384151,
+                 lng: 116.0671214,
+                 location: "China - Joey, Elijah",
              }, {
-                 lat: 48.8566969,
-                 lng: 2.3514616,
-                 location: "Paris",
+                 lat:51.5281779,
+                 lng: -0.4319235,
+                 location: "London, UK - Elizabeth",
              }, {
-                 lat: 52.3727598,
-                 lng: 4.8936041,
-                 location: "Amsterdam",
+                 lat: -8.5564142,
+                 lng: 125.5286409,
+                 location: "Dili, Timor-Leste - Samuel, Evan, Noah",
              }, {
-                 lat: 52.5170365,
-                 lng: 13.3888599,
-                 location: "Berlin",
-             }, {
-                 lat: 40.7127281,
-                 lng: -74.0060152,
-                 location: "New York",
-             }, {
-                 lat: 22.350627,
-                 lng: 114.1849161,
-                 location: 'Hong Kong',
-             }, {
-                 lat: -33.865143,
-                 lng: 151.209900,
-                 location: 'Sydney',
-             }, {
-                 lat: 19.076090,
-                 lng: 72.877426,
-                 location: "Mumbai",
-             }, {
-                 lat: -33.918861,
-                 lng: 18.423300,
-                 location: "Cape Town",
-             }, {
-                 lat: 55.751244,
-                 lng: 37.618423,
-                 location: "Moscow",
-             },
+                 lat: 39.1938148,
+                 lng: -76.9476555,
+                 location: "Columbia, MD - Samuel, Evan, Noah",
+             }, 
+                
              ];
          
              let markers = locations.map(function(location, i) {
