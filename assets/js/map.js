@@ -24,7 +24,7 @@ function initMap() {
              }, {
                  lat:51.5281779,
                  lng: -0.4319235,
-                 location: "London, UK - Elizabeth",
+                 location: "London, UK - Ellie",
              }, {
                  lat: -8.5564142,
                  lng: 125.5286409,
