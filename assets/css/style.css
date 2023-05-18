@@ -136,7 +136,7 @@ p a{
     margin: 25px auto;
 }
 
-.container {
+.story-container {
     display: flex;
   align-items: center;
   justify-content: center;
