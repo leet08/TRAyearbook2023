@@ -13,8 +13,5 @@ $('.owl-carousel').owlCarousel({
             items:5
         }
     }
-    onInitialized: function () {
-    // Set the height of all images to be the same
-    $('.owl-carousel .owl-item img').css('height', '100%');
-  }
+    
 })
