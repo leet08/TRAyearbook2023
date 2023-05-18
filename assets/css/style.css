@@ -136,13 +136,17 @@ p a{
     margin: 25px auto;
 }
 
-.mount-anville-img{
-    
-     width: 100%;
-    display: flex;
+.container {
+  display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
+}
+
+.mount-anville-img{
+    
+     width: 100%;
+    margin:auto;
 }
 
 /*---------------------Map-----------------------*/
