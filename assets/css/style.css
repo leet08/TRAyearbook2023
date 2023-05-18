@@ -19,6 +19,7 @@ h2{
     border-top-right-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+    width: 140px;
 }
 
 .nav-link{
@@ -138,6 +139,8 @@ p a{
 .mount-anville-img{
     
      width: 100%;
+    display: flex;
+  justify-content: center;
 }
 
 /*---------------------Map-----------------------*/
